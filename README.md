@@ -16,7 +16,7 @@
   <hr>
 
 - 🔭 I’m currently working on 
-  - Computer Vision and Deep learning
+  - Computer Vision
   - Deep learning 
 - 🌱 I’m currently learning 
   - Heterogeneous computing
