@@ -20,7 +20,7 @@
   - Deep learning 
 - 🌱 I’m currently learning 
   - Heterogeneous computing
-  - C,C++ Programming 
+  - MLOps
   - DS & Algorithms
 - 👯 I’m looking to collaborate on
   - Research projects focused on computer vison and deep learning  
