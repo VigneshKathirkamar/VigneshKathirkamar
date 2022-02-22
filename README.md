@@ -30,5 +30,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<p>Find my resume at: ![Vignesh Kahtirkamar's resume](https://vigneshskathirkamar.github.io)
+Find my resume at: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
