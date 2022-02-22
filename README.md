@@ -23,7 +23,7 @@
   - MLOps
   - DS & Algorithms
 - 👯 I’m looking to collaborate on
-  - Research projects focused on computer vison and deep learning  
+  - Research projects focused on computer vison and deep learning !!! 
   <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
