@@ -23,13 +23,15 @@
   - MLOps
   - DS & Algorithms
 - 👯 I’m looking to collaborate on
-  - Research projects focused on computer vison and deep learning !!! 
-  <!--
-- 🤔 I’m looking for help with ...
+  - Research projects focused on computer vison and deep learning
+ 
+Find my resume at: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
+  
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
  
- Find my resume at: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
+
