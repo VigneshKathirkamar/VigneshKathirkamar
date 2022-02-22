@@ -31,4 +31,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Find my resume at: ![Vignesh Kahtirkamar's resume](https://vigneshskathirkamar.github.io)
+<p>Find my resume at: ![Vignesh Kahtirkamar's resume](https://vigneshskathirkamar.github.io)
