@@ -24,9 +24,7 @@
   - Google Cloud Computing
 - 👯 I’m looking to collaborate on
   - Research projects focused on computer vison and deep learning
- 
-Find my resume at: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
-  
+   
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -44,3 +42,4 @@ Find my resume at: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.git
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 
+For Recruiters: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
