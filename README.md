@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning 
   - Heterogeneous computing
   - MLOps
-  - Google Cloud 
+  - Google Cloud Computing
 - 👯 I’m looking to collaborate on
   - Research projects focused on computer vison and deep learning
  
