@@ -45,6 +45,5 @@
 <h2>Github stats:</h2>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkathirkamar&theme=radical)
---- 
-<br><br>
+
 For Recruiters: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
