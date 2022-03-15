@@ -44,6 +44,7 @@
 
 <h2>Github stats:</h2>
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkathirkamar&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkathirkamar&theme=radical) &nbsp;&nbsp;&emsp;&emsp;&emsp;
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkathirkamar&langs_count=5&theme=tokyonight)]()
 
 For Recruiters: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
