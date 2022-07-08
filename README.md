@@ -48,4 +48,4 @@
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkathirkamar&langs_count=5&theme=tokyonight)]()
  
 
-For Recruiters: [Vignesh Kahtirkamar's resume](https://vigneshkathirkamar.github.io/resume)
+For Recruiters: <a href="https://vigneshkathirkamar.github.io/resume" target="_blank"> Vignesh Kahtirkamar's resume </a> 
