@@ -1,6 +1,6 @@
  # <h1 align="center"> Vignesh Kathirkamar 
  <h2 align="center">AI/ML Engineer</h2>
-
+ 
 <p align="center">
    
    <a href="https://www.linkedin.com/in/vigneshkathirkamar/">
@@ -47,5 +47,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshkathirkamar&theme=radical) &emsp;
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkathirkamar&langs_count=5&theme=tokyonight)]()
  
-
-For Recruiters: <mark> <a target="_blank" href="https://vigneshkathirkamar.github.io/resume" > Vignesh Kathirkamar's resume  </a> </mark>
+<p align="center"> 
+<h3> <pre> For Recruiters: <a target="_blank" href="https://vigneshkathirkamar.github.io/resume" > Vignesh Kathirkamar's resume </a> </pre> </h3> 
+</p>
